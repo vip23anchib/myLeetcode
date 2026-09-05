@@ -1,3 +1,8 @@
+// When a function returns true to its parent, the parent does NOT call that function again.
+//It simply receives the value true, executes return true, and finishes itself.
+
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
